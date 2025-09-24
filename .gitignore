@@ -1,0 +1,8 @@
+.venv
+
+libs/__pycache__
+libs/cli/__pycache__
+libs/core/__pycache__
+
+/files
+/output
